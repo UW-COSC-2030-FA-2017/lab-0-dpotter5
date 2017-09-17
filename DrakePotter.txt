@@ -1,0 +1,7 @@
+Three Interesting Facts I Learned In the Last Three Days:
+
+1. That in a linked list, there is a head pointer that points to the first node.
+
+2. That you can create a circular linked list where the last node points to the first node.
+
+3. You can create linked lists that have each node point not only to their successor, but to their predecessor as well.
